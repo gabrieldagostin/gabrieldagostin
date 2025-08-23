@@ -1,6 +1,6 @@
-<h2 align="left"># Hi there 👋, I'm Gabriel  
+ ## Hi there 👋, I'm Gabriel  
 
-- 🎓 Student at **College Cedup** – Criciúma, SC, Brazil  <br>💻 Passionate about programming and technology  <br>🚀 Currently learning **Java, Spring Boot, MySQL, HTML & CSS**  <br>📌 Goal: Become a professional developer and work on impactful projects</h2>
+- 🎓 Student at **College Cedup** – Criciúma, SC, Brazil  <br>💻 Passionate about programming and technology  <br>🚀 Currently learning **Java, Spring Boot, MySQL, HTML & CSS**  <br>📌 Goal: Become a professional developer and work on impactful projects
 
 ###
 
