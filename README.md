@@ -13,11 +13,11 @@
 
 ###
 
-<img align="right" height="170" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGloNDVyOGNmdHJvNTI0M21rZmhmeXhpeG5jMGJ6cHplZTA2N2pjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KDixncjK6l7G/giphy.gif"  />
+<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGloNDVyOGNmdHJvNTI0M21rZmhmeXhpeG5jMGJ6cHplZTA2N2pjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KDixncjK6l7G/giphy.gif"  />
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
