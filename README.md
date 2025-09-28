@@ -46,6 +46,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="35" alt="nginx logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="apache logo"  />
