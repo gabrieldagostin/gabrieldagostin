@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Gabriel</h1>
 
 ###
-<img align="right" height="115" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGloNDVyOGNmdHJvNTI0M21rZmhmeXhpeG5jMGJ6cHplZTA2N2pjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KDixncjK6l7G/giphy.gif"  />
+<img align="right" height="105" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGloNDVyOGNmdHJvNTI0M21rZmhmeXhpeG5jMGJ6cHplZTA2N2pjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KDixncjK6l7G/giphy.gif"  />
 
 ###
 
