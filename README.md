@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">- 🎓 Student at **College Cedup** – Criciúma, SC, Brazil<br>- 💻 Passionate about programming and technology<br>- 🚀 Currently learning **Java, Spring Boot, MySQL, HTML & CSS**<br>- 📌 Goal: Become a professional developer and work on impactful projects</p>
+<p align="left">- 🎓 Student at College Cedup – Criciúma, SC, Brazil<br>- 💻 Passionate about programming and technology<br>- 🚀 Currently learning Java, Spring Boot, PostgresSQL, HTML, CSS & React<br>- 📌 Goal: Become a professional developer and work on impactful projects</p>
 
 ###
 
