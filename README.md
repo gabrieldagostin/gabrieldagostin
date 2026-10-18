@@ -11,7 +11,7 @@
   <a href="https://github.com/gabrieldagostin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/gabriel-dagostin-056a10444/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
@@ -146,7 +146,7 @@ The project is being developed with a focus on modular architecture, maintainabl
 ## Contact
 
 -   **GitHub:** [@gabrieldagostin](https://github.com/gabrieldagostin)
--   **LinkedIn:** [GabrielFernandesDagostin]()
+-   **LinkedIn:** [GabrielFernandesDagostin](https://www.linkedin.com/in/gabriel-dagostin-056a10444/?isSelfProfile=true)
 -   **Email:** gabrielfernandesdagostin@gmail.com
 
 ------------------------------------------------------------------------
