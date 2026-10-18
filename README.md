@@ -152,5 +152,9 @@ The project is being developed with a focus on modular architecture, maintainabl
 ------------------------------------------------------------------------
 
 <div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGloNDVyOGNmdHJvNTI0M21rZmhmeXhpeG5jMGJ6cHplZTA2N2pjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12KDixncjK6l7G/giphy.gif" alt="Animated GIF"/>
+</div>
+
+<div align="center">
 Learning by building, improving one project at a time.
 </div>
