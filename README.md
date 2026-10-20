@@ -2,10 +2,10 @@
   <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=Gabriel&fontSize=70&fontColor=FFFFFF&fontAlign=49&fontAlignY=80&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-  <h3>Full Stack Developer in Progress</h3>
-  <p><strong>Java · Spring Boot · React · TypeScript ·PostgreSQL</strong></p>
+  <h3>Back End Developer in Progress</h3>
+  <p><strong>Java · Spring Boot · Docker · PostgreSQL</strong></p>
   <p>
-    Building full-stack applications while learning software engineering, clean architecture, and modern web development.
+    Building back-end applications while learning software engineering, clean architecture, and design patterns.
   </p>
 
   <a href="https://github.com/gabrieldagostin">
@@ -21,7 +21,7 @@
 ## About Me
 
 -   💻 I'm studying software development and working toward becoming a
-    **Full Stack Developer**.
+    **Back End Developer**.
 -   ☕ Exploring backend development with **Java** and **Spring Boot**.
 -   🌐 Building frontend skills with **React**, JavaScript, and
     TypeScript.
